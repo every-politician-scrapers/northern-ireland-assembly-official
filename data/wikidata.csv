@@ -1,7 +1,9 @@
 id,item,label,area,party,first_name,last_name
-,Q76130874,Cara Hunter,East Londonderry,Social Democratic and Labour Party,Cara,Hunter
-8,Q7372562,"Roy Beggs, Jr.",East Antrim,Ulster Unionist Party,Roy,
-47,Q16195114,David Hilditch,East Antrim,Democratic Unionist Party,David,
+,Q55069282,Deirdre Hargey,Belfast South,Sinn Féin,Deirdre,Hargey
+,Q61883171,Matthew O'Toole,Belfast South,Social Democratic and Labour Party,Matthew,O'Toole
+,Q107345490,Stephen Dunne,North Down,Democratic Unionist Party,Stephen,Dunne
+8,Q7372562,"Roy Beggs, Jr.",East Antrim,Ulster Unionist Party,Roy,Beggs
+47,Q16195114,David Hilditch,East Antrim,Democratic Unionist Party,David,Hilditch
 53,Q5552825,Gerry Kelly,Belfast North,Sinn Féin,Gerry,Kelly
 60,Q1116655,Alex Maskey,Belfast West,Sinn Féin,Alex,Maskey
 80,Q578710,Conor Murphy,Newry and Armagh,Sinn Féin,Conor,Murphy
@@ -9,6 +11,7 @@ id,item,label,area,party,first_name,last_name
 104,Q7177640,Peter Weir,Strangford,Democratic Unionist Party,Peter,Weir
 105,Q6198868,Jim Wells,South Down,Democratic Unionist Party,Jim,Wells
 116,Q7787999,Thomas Buchanan,West Tyrone,Democratic Unionist Party,Thomas,Buchanan
+124,Q116719,Diane Dodds,Upper Bann,Democratic Unionist Party,Diane,Dodds
 127,Q4716944,Alex Easton,North Down,Democratic Unionist Party,Alex,Easton
 131,Q4792148,Arlene Foster,Fermanagh and South Tyrone,Democratic Unionist Party,Arlene,Foster
 136,Q5289533,Dolores Kelly,Upper Bann,Social Democratic and Labour Party,Dolores,Kelly
@@ -20,49 +23,40 @@ id,item,label,area,party,first_name,last_name
 145,Q6250866,John O'Dowd,Upper Bann,Sinn Féin,John,O'Dowd
 150,Q5543965,George Robinson,East Londonderry,Democratic Unionist Party,George,Robinson
 154,Q6820936,Mervyn Storey,North Antrim,Democratic Unionist Party,Mervyn,Storey
-155,Q2134210,Raymond McCartney,Foyle,Sinn Féin,Raymond,McCartney
-180,Q7609180,Stephen Farry,North Down,Alliance Party,Stephen,Farry
-194,Q7839296,Trevor Lunn,Lagan Valley,Alliance Party,Trevor,
+194,Q7839296,Trevor Lunn,Lagan Valley,Independent,Trevor,Lunn
 198,Q7839094,Trevor Clarke,South Antrim,Democratic Unionist Party,Trevor,Clarke
-200,Q7518906,Simon Hamilton,Strangford,Democratic Unionist Party,Simon,Hamilton
 201,Q8013107,William Irwin,Newry and Armagh,Democratic Unionist Party,William,Irwin
 203,Q6837153,Michelle McIlveen,Strangford,Democratic Unionist Party,Michelle,McIlveen
+207,Q4992676,Martina Anderson,Foyle,Sinn Féin,Martina,Anderson
 208,Q5052017,Cathal Boylan,Newry and Armagh,Sinn Féin,Cathal,Boylan
-215,Q5047760,Carál Ní Chuilín,Belfast North,Sinn Féin,Carál,
+215,Q5047760,Carál Ní Chuilín,Belfast North,Sinn Féin,Carál,Cullen
 216,Q6837191,Michelle O'Neill,Mid Ulster,Sinn Féin,Michelle,Doris
-268,Q7150914,Paul Givan,Lagan Valley,Democratic Unionist Party,Paul,
+268,Q7150914,Paul Givan,Lagan Valley,Democratic Unionist Party,Paul,Givan
 269,Q16214843,Paul Frew,North Antrim,Democratic Unionist Party,Paul,Frew
 272,Q5107294,Chris Lyttle,Belfast East,Alliance Party,Chris,Lyttle
 274,Q8012668,William Humphrey,Belfast North,Democratic Unionist Party,William,Humphrey
 281,Q428996,Pat Sheehan,Belfast West,Sinn Féin,Pat,Sheehan
 287,Q6767859,Mark H. Durkan,Foyle,Social Democratic and Labour Party,Mark,Durkan
-288,Q5585084,Gordon Dunne,North Down,Democratic Unionist Party,Gordon,Dunne
 289,Q7128949,Pam Cameron,South Antrim,Democratic Unionist Party,Pam,Cameron
 293,Q7154645,Paula Bradley,Belfast North,Democratic Unionist Party,Paula,Bradley
 298,Q7441173,Seán Lynch,Fermanagh and South Tyrone,Sinn Féin,Sean,Lynch
-299,Q5149523,Colum Eastwood,Foyle,Social Democratic and Labour Party,Colum,Eastwood
 300,Q6848174,Mike Nesbitt,Strangford,Ulster Unionist Party,Mike,Nesbitt
-301,Q3499853,Jim Allister,North Antrim,Traditional Unionist Voice,James,Allister
+301,Q3499853,Jim Allister,North Antrim,Traditional Unionist Voice,Jim,Allister
 302,Q7352813,Robin Swann,North Antrim,Ulster Unionist Party,Robin,Swann
 303,Q7615771,Stewart Dickson,East Antrim,Alliance Party,Stewart,Dickson
-307,Q7614439,Steven Agnew,North Down,Green Party in Northern Ireland,Steven,Agnew
-308,Q6835582,Michaela Boyle,West Tyrone,Sinn Féin,Michaela,Boyle
 2150,Q24052778,Christopher Stalford,Belfast South,Democratic Unionist Party,Christopher,Stalford
 2324,Q5249360,Declan McAleer,West Tyrone,Sinn Féin,Declan,McAleer
-2326,Q6808653,Megan Fearon,Newry and Armagh,Sinn Féin,Megan,Fearon
-3328,Q24052782,Carla Lockhart,Upper Bann,Democratic Unionist Party,Carla,Lockhart
-4145,Q17017367,Claire Sugden,East Londonderry,independent politician,Claire,Sugden
-4541,Q13586248,Máirtín Ó Muilleoir,Belfast South,Sinn Féin,Máirtín,
+4145,Q17017367,Claire Sugden,East Londonderry,Independent,Claire,Sugden
+4367,Q67519231,Maolíosa McHugh,West Tyrone,Sinn Féin,Maolíosa,McHugh
 5043,Q21130106,Gary Middleton,Foyle,Democratic Unionist Party,Gary,Middleton
-5223,Q20631177,Claire Hanna,Belfast South,Social Democratic and Labour Party,Claire,Hanna
 5251,Q20966622,Gordon Lyons,East Antrim,Democratic Unionist Party,Gordon,Lyons
 5307,Q20979148,Andy Allen,Belfast East,Ulster Unionist Party,Andy,Allen
 5595,Q22006766,Daniel McCrossan,West Tyrone,Social Democratic and Labour Party,Daniel,McCrossan
-5785,Q24052786,Joanne Bunting,Belfast East,Democratic Unionist Party,Joanne,
-5786,Q20675966,Doug Beattie,Upper Bann,Ulster Unionist Party,Doug,
+5785,Q24052786,Joanne Bunting,Belfast East,Democratic Unionist Party,Joanne,Bunting
+5786,Q20675966,Doug Beattie,Upper Bann,Ulster Unionist Party,Doug,Beattie
 5790,Q24052787,Kellie Armstrong,Strangford,Alliance Party,Kellie,Armstrong
 5791,Q17306227,Nichola Mallon,Belfast North,Social Democratic and Labour Party,Nichola,Mallon
-5792,Q24052779,Clare Bailey,Belfast South,Green Party in Northern Ireland,Clare,Bailey
+5792,Q24052779,Clare Bailey,Belfast South,Green Party,Clare,Bailey
 5793,Q24083703,Colin McGrath,South Down,Social Democratic and Labour Party,Colin,McGrath
 5794,Q24052780,Paula Bradshaw,Belfast South,Alliance Party,Paula,Bradshaw
 5795,Q24083702,Sinéad Bradley,South Down,Social Democratic and Labour Party,Sinéad,Bradley
@@ -82,10 +76,16 @@ id,item,label,area,party,first_name,last_name
 6155,Q28867994,Jonathan Buckley,Upper Bann,Democratic Unionist Party,Jonathan,Buckley
 6156,Q28867959,Jemma Dolan,Fermanagh and South Tyrone,Sinn Féin,Jemma,Dolan
 6157,Q28868387,John Stewart,East Antrim,Ulster Unionist Party,John,Stewart
-6158,Q28868438,Pat Catney,Lagan Valley,Social Democratic and Labour Party,Pat,
-6159,Q30583110,Catherine Kelly,West Tyrone,Sinn Féin,Catherine,Kelly
+6158,Q28868438,Pat Catney,Lagan Valley,Social Democratic and Labour Party,Pat,Catney
 6160,Q33088456,Emma Rogan,South Down,Sinn Féin,Emma,Rogan
-6161,Q31373965,Colm Gildernew,Fermanagh and South Tyrone,Sinn Féin,Colm,
+6161,Q31373965,Colm Gildernew,Fermanagh and South Tyrone,Sinn Féin,Colm,Gildernew
 6162,Q30582985,Karen Mullan,Foyle,Sinn Féin,Karen,Mullan
 6166,Q56702135,John Blair,South Antrim,Alliance Party,John,Blair
 6167,Q63343120,Emma Sheerin,Mid Ulster,Sinn Féin,Emma,Sheerin
+6169,Q86009725,Harry Harvey,Strangford,Democratic Unionist Party,Harry,Harvey
+6170,Q71333058,Rachel Woods,North Down,Green Party,Rachel,Woods
+6173,Q80222175,Andrew Muir,North Down,Alliance Party,Andrew,Muir
+6177,Q81823006,Liz Kimmins,Newry and Armagh,Sinn Féin,Liz,
+6178,Q81725991,Sinead McLaughlin,Foyle,Social Democratic and Labour Party,,McLaughlin
+6464,Q76130874,Cara Hunter,East Londonderry,Social Democratic and Labour Party,Cara,Hunter
+6792,Q105100108,Nicola Brogan,West Tyrone,Sinn Féin,Nicola,Brogan

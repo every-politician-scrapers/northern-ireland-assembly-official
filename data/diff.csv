@@ -1,36 +1,9 @@
 @@,id,area,party,first_name,last_name
-->,4145,East Londonderry,independent politician->Independent,Claire,Sugden
-->,215,Belfast North,Sinn Féin,Carál,NULL->Ní Chuilín
-->,194,Lagan Valley,Alliance Party->Independent,Trevor,NULL->Lunn
-->,47,East Antrim,Democratic Unionist Party,David,NULL->Hilditch
-->,4541->6176,Belfast South,Sinn Féin,Máirtín->Deirdre,NULL->Hargey
-->,268,Lagan Valley,Democratic Unionist Party,Paul,NULL->Givan
-->,6161,Fermanagh and South Tyrone,Sinn Féin,Colm,NULL->Gildernew
-->,6158,Lagan Valley,Social Democratic and Labour Party,Pat,NULL->Catney
-->,5785,Belfast East,Democratic Unionist Party,Joanne,NULL->Bunting
-->,8,East Antrim,Ulster Unionist Party,Roy,NULL->Beggs
-->,5786,Upper Bann,Ulster Unionist Party,Doug,NULL->Beattie
+->,NULL->6179,Belfast South,Social Democratic and Labour Party,Matthew,O'Toole
+->,6177,Newry and Armagh,Sinn Féin,Liz,NULL->Kimmins
+->,6178,Foyle,Social Democratic and Labour Party,NULL->Sinead,McLaughlin
 ->,298,Fermanagh and South Tyrone,Sinn Féin,Sean->Seán,Lynch
-->,NULL->6464,East Londonderry,Social Democratic and Labour Party,Cara,Hunter
-->,5223->6179,Belfast South,Social Democratic and Labour Party,Claire->Matthew,Hanna->O'Toole
-->,180->6173,North Down,Alliance Party,Stephen->Andrew,Farry->Muir
+->,NULL->6176,Belfast South,Sinn Féin,Deirdre,Hargey
 ->,216,Mid Ulster,Sinn Féin,Michelle,Doris->O'Neill
-->,5792,Belfast South,Green Party in Northern Ireland->Green Party,Clare,Bailey
-->,301,North Antrim,Traditional Unionist Voice,James->Jim,Allister
----,155,Foyle,Sinn Féin,Raymond,McCartney
----,3328,Upper Bann,Democratic Unionist Party,Carla,Lockhart
----,6159,West Tyrone,Sinn Féin,Catherine,Kelly
----,200,Strangford,Democratic Unionist Party,Simon,Hamilton
----,2326,Newry and Armagh,Sinn Féin,Megan,Fearon
----,299,Foyle,Social Democratic and Labour Party,Colum,Eastwood
----,288,North Down,Democratic Unionist Party,Gordon,Dunne
----,308,West Tyrone,Sinn Féin,Michaela,Boyle
----,307,North Down,Green Party in Northern Ireland,Steven,Agnew
-+++,6170,North Down,Green Party,Rachel,Woods
-+++,6178,Foyle,Social Democratic and Labour Party,Sinead,McLaughlin
-+++,4367,West Tyrone,Sinn Féin,Maolíosa,McHugh
-+++,6177,Newry and Armagh,Sinn Féin,Liz,Kimmins
-+++,6169,Strangford,Democratic Unionist Party,Harry,Harvey
-+++,124,Upper Bann,Democratic Unionist Party,Diane,Dodds
-+++,6792,West Tyrone,Sinn Féin,Nicola,Brogan
-+++,207,Foyle,Sinn Féin,Martina,Anderson
+->,215,Belfast North,Sinn Féin,Carál,Cullen->Ní Chuilín
+---,,North Down,Democratic Unionist Party,Stephen,Dunne

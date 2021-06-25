@@ -29,9 +29,11 @@ class Member < Scraped::JSON
   end
 
   field :party do
-    return partyLabel unless partyLabel.include? 'Alliance Party'
+    return 'Alliance Party' if partyLabel.include? 'Alliance Party'
+    return 'Green Party' if partyLabel.include? 'Green Party'
+    return 'Independent' if partyLabel == 'independent politician'
 
-    return 'Alliance Party'
+    partyLabel
   end
 
   field :first_name do
