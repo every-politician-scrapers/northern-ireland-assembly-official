@@ -29,7 +29,9 @@ class Member < Scraped::JSON
   end
 
   field :party do
-    json.dig(:partyLabel, :value)
+    return partyLabel unless partyLabel.include? 'Alliance Party'
+
+    return 'Alliance Party'
   end
 
   field :first_name do
@@ -38,6 +40,12 @@ class Member < Scraped::JSON
 
   field :last_name do
     json.dig(:familyLabel, :value)
+  end
+
+  private
+
+  def partyLabel
+    json.dig(:partyLabel, :value)
   end
 end
 
