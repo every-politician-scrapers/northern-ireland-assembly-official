@@ -1,28 +1,28 @@
 id,name,first_name,last_name,party,area
 5797,"Aiken, Steve OBE",Steve,Aiken,Ulster Unionist Party,South Antrim
-5307,"Allen, Andy",Andy,Allen,Ulster Unionist Party,East Belfast
+5307,"Allen, Andy",Andy,Allen,Ulster Unionist Party,Belfast East
 301,"Allister, Jim",Jim,Allister,Traditional Unionist Voice,North Antrim
 207,"Anderson, Martina",Martina,Anderson,Sinn Féin,Foyle
 5800,"Archibald, Caoimhe",Caoimhe,Archibald,Sinn Féin,East Londonderry
 5790,"Armstrong, Kellie",Kellie,Armstrong,Alliance Party,Strangford
-5792,"Bailey, Clare",Clare,Bailey,Green Party,South Belfast
+5792,"Bailey, Clare",Clare,Bailey,Green Party,Belfast South
 5805,"Barton, Rosemary",Rosemary,Barton,Ulster Unionist Party,Fermanagh and South Tyrone
 5786,"Beattie, Doug MC",Doug,Beattie,Ulster Unionist Party,Upper Bann
 8,"Beggs, Roy",Roy,Beggs,Ulster Unionist Party,East Antrim
 6166,"Blair, John",John,Blair,Alliance Party,South Antrim
 208,"Boylan, Cathal",Cathal,Boylan,Sinn Féin,Newry and Armagh
 5798,"Bradley, Maurice",Maurice,Bradley,Democratic Unionist Party,East Londonderry
-293,"Bradley, Paula",Paula,Bradley,Democratic Unionist Party,North Belfast
+293,"Bradley, Paula",Paula,Bradley,Democratic Unionist Party,Belfast North
 5795,"Bradley, Sinéad",Sinéad,Bradley,Social Democratic and Labour Party,South Down
-5794,"Bradshaw, Paula",Paula,Bradshaw,Alliance Party,South Belfast
+5794,"Bradshaw, Paula",Paula,Bradshaw,Alliance Party,Belfast South
 6792,"Brogan, Nicola",Nicola,Brogan,Sinn Féin,West Tyrone
 5809,"Buchanan, Keith",Keith,Buchanan,Democratic Unionist Party,Mid Ulster
 116,"Buchanan, Thomas",Thomas,Buchanan,Democratic Unionist Party,West Tyrone
 6155,"Buckley, Jonathan",Jonathan,Buckley,Democratic Unionist Party,Upper Bann
-5785,"Bunting, Joanne",Joanne,Bunting,Democratic Unionist Party,East Belfast
+5785,"Bunting, Joanne",Joanne,Bunting,Democratic Unionist Party,Belfast East
 5808,"Butler, Robbie",Robbie,Butler,Ulster Unionist Party,Lagan Valley
 289,"Cameron, Pam",Pam,Cameron,Democratic Unionist Party,South Antrim
-5796,"Carroll, Gerry",Gerry,Carroll,People Before Profit Alliance,West Belfast
+5796,"Carroll, Gerry",Gerry,Carroll,People Before Profit Alliance,Belfast West
 6158,"Catney, Pat",Pat,Catney,Social Democratic and Labour Party,Lagan Valley
 5801,"Chambers, Alan",Alan,Chambers,Ulster Unionist Party,North Down
 198,"Clarke, Trevor",Trevor,Clarke,Democratic Unionist Party,South Antrim
@@ -33,28 +33,28 @@ id,name,first_name,last_name,party,area
 287,"Durkan, Mark",Mark,Durkan,Social Democratic and Labour Party,Foyle
 127,"Easton, Alex",Alex,Easton,Democratic Unionist Party,North Down
 6154,"Ennis, Sinéad",Sinéad,Ennis,Sinn Féin,South Down
-6103,"Flynn, Órlaithí",Órlaithí,Flynn,Sinn Féin,West Belfast
+6103,"Flynn, Órlaithí",Órlaithí,Flynn,Sinn Féin,Belfast West
 131,"Foster, Arlene",Arlene,Foster,Democratic Unionist Party,Fermanagh and South Tyrone
 269,"Frew, Paul",Paul,Frew,Democratic Unionist Party,North Antrim
 6161,"Gildernew, Colm",Colm,Gildernew,Sinn Féin,Fermanagh and South Tyrone
 268,"Givan, Paul",Paul,Givan,Democratic Unionist Party,Lagan Valley
-6176,"Hargey, Deirdre",Deirdre,Hargey,Sinn Féin,South Belfast
+6176,"Hargey, Deirdre",Deirdre,Hargey,Sinn Féin,Belfast South
 6169,"Harvey, Harry",Harry,Harvey,Democratic Unionist Party,Strangford
 47,"Hilditch, David",David,Hilditch,Democratic Unionist Party,East Antrim
-274,"Humphrey, William",William,Humphrey,Democratic Unionist Party,North Belfast
+274,"Humphrey, William",William,Humphrey,Democratic Unionist Party,Belfast North
 6464,"Hunter, Cara",Cara,Hunter,Social Democratic and Labour Party,East Londonderry
 201,"Irwin, William",William,Irwin,Democratic Unionist Party,Newry and Armagh
 5799,"Kearney, Declan",Declan,Kearney,Sinn Féin,South Antrim
 136,"Kelly, Dolores",Dolores,Kelly,Social Democratic and Labour Party,Upper Bann
-53,"Kelly, Gerry",Gerry,Kelly,Sinn Féin,North Belfast
+53,"Kelly, Gerry",Gerry,Kelly,Sinn Féin,Belfast North
 6177,"Kimmins, Liz",Liz,Kimmins,Sinn Féin,Newry and Armagh
-137,"Long, Naomi",Naomi,Long,Alliance Party,East Belfast
+137,"Long, Naomi",Naomi,Long,Alliance Party,Belfast East
 194,"Lunn, Trevor",Trevor,Lunn,Independent,Lagan Valley
 298,"Lynch, Seán",Seán,Lynch,Sinn Féin,Fermanagh and South Tyrone
 5251,"Lyons, Gordon",Gordon,Lyons,Democratic Unionist Party,East Antrim
-272,"Lyttle, Chris",Chris,Lyttle,Alliance Party,East Belfast
+272,"Lyttle, Chris",Chris,Lyttle,Alliance Party,Belfast East
 2324,"McAleer, Declan",Declan,McAleer,Sinn Féin,West Tyrone
-138,"McCann, Fra",Fra,McCann,Sinn Féin,West Belfast
+138,"McCann, Fra",Fra,McCann,Sinn Féin,Belfast West
 5595,"McCrossan, Daniel",Daniel,McCrossan,Social Democratic and Labour Party,West Tyrone
 140,"McGlone, Patsy",Patsy,McGlone,Social Democratic and Labour Party,Mid Ulster
 5793,"McGrath, Colin",Colin,McGrath,Social Democratic and Labour Party,South Down
@@ -63,24 +63,24 @@ id,name,first_name,last_name,party,area
 203,"McIlveen, Michelle",Michelle,McIlveen,Democratic Unionist Party,Strangford
 6178,"McLaughlin, Sinead",Sinead,McLaughlin,Social Democratic and Labour Party,Foyle
 5806,"McNulty, Justin",Justin,McNulty,Social Democratic and Labour Party,Newry and Armagh
-5791,"Mallon, Nichola",Nichola,Mallon,Social Democratic and Labour Party,North Belfast
-60,"Maskey, Alex",Alex,Maskey,Sinn Féin,West Belfast
+5791,"Mallon, Nichola",Nichola,Mallon,Social Democratic and Labour Party,Belfast North
+60,"Maskey, Alex",Alex,Maskey,Sinn Féin,Belfast West
 5043,"Middleton, Gary",Gary,Middleton,Democratic Unionist Party,Foyle
 6173,"Muir, Andrew",Andrew,Muir,Alliance Party,North Down
 6162,"Mullan, Karen",Karen,Mullan,Sinn Féin,Foyle
 80,"Murphy, Conor",Conor,Murphy,Sinn Féin,Newry and Armagh
 300,"Nesbitt, Mike",Mike,Nesbitt,Ulster Unionist Party,Strangford
-144,"Newton, Robin",Robin,Newton,Democratic Unionist Party,East Belfast
-215,"Ní Chuilín, Carál",Carál,Ní Chuilín,Sinn Féin,North Belfast
+144,"Newton, Robin",Robin,Newton,Democratic Unionist Party,Belfast East
+215,"Ní Chuilín, Carál",Carál,Ní Chuilín,Sinn Féin,Belfast North
 145,"O'Dowd, John",John,O'Dowd,Sinn Féin,Upper Bann
 216,"O'Neill, Michelle",Michelle,O'Neill,Sinn Féin,Mid Ulster
-6179,"O'Toole, Matthew",Matthew,O'Toole,Social Democratic and Labour Party,South Belfast
+6179,"O'Toole, Matthew",Matthew,O'Toole,Social Democratic and Labour Party,Belfast South
 90,"Poots, Edwin",Edwin,Poots,Democratic Unionist Party,Lagan Valley
 150,"Robinson, George MBE",George,Robinson,Democratic Unionist Party,East Londonderry
 6160,"Rogan, Emma",Emma,Rogan,Sinn Féin,South Down
-281,"Sheehan, Pat",Pat,Sheehan,Sinn Féin,West Belfast
+281,"Sheehan, Pat",Pat,Sheehan,Sinn Féin,Belfast West
 6167,"Sheerin, Emma",Emma,Sheerin,Sinn Féin,Mid Ulster
-2150,"Stalford, Christopher",Christopher,Stalford,Democratic Unionist Party,South Belfast
+2150,"Stalford, Christopher",Christopher,Stalford,Democratic Unionist Party,Belfast South
 6157,"Stewart, John",John,Stewart,Ulster Unionist Party,East Antrim
 154,"Storey, Mervyn",Mervyn,Storey,Democratic Unionist Party,North Antrim
 4145,"Sugden, Claire",Claire,Sugden,Independent,East Londonderry

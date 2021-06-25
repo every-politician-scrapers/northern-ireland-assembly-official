@@ -33,8 +33,17 @@ class MemberItem < Scraped::JSON
   end
 
   field :area do
+    return constituency unless constituency.include? 'Belfast'
+
+    constituency.split(' ').reverse.join(' ')
+  end
+
+  private
+
+  def constituency
     json[:ConstituencyName]
   end
+
 end
 
 url = 'http://data.niassembly.gov.uk/members_json.ashx?m=GetAllCurrentMembers'
