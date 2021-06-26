@@ -1,6 +1,4 @@
 id,item,label,area,party,first_name,last_name
-,Q55069282,Deirdre Hargey,Belfast South,Sinn Féin,Deirdre,Hargey
-,Q61883171,Matthew O'Toole,Belfast South,Social Democratic and Labour Party,Matthew,O'Toole
 ,Q107345490,Stephen Dunne,North Down,Democratic Unionist Party,Stephen,Dunne
 8,Q7372562,"Roy Beggs, Jr.",East Antrim,Ulster Unionist Party,Roy,Beggs
 47,Q16195114,David Hilditch,East Antrim,Democratic Unionist Party,David,Hilditch
@@ -29,8 +27,8 @@ id,item,label,area,party,first_name,last_name
 203,Q6837153,Michelle McIlveen,Strangford,Democratic Unionist Party,Michelle,McIlveen
 207,Q4992676,Martina Anderson,Foyle,Sinn Féin,Martina,Anderson
 208,Q5052017,Cathal Boylan,Newry and Armagh,Sinn Féin,Cathal,Boylan
-215,Q5047760,Carál Ní Chuilín,Belfast North,Sinn Féin,Carál,Cullen
-216,Q6837191,Michelle O'Neill,Mid Ulster,Sinn Féin,Michelle,Doris
+215,Q5047760,Carál Ní Chuilín,Belfast North,Sinn Féin,Carál,Ní Chuilín
+216,Q6837191,Michelle O'Neill,Mid Ulster,Sinn Féin,Michelle,O'Neill
 268,Q7150914,Paul Givan,Lagan Valley,Democratic Unionist Party,Paul,Givan
 269,Q16214843,Paul Frew,North Antrim,Democratic Unionist Party,Paul,Frew
 272,Q5107294,Chris Lyttle,Belfast East,Alliance Party,Chris,Lyttle
@@ -39,7 +37,7 @@ id,item,label,area,party,first_name,last_name
 287,Q6767859,Mark H. Durkan,Foyle,Social Democratic and Labour Party,Mark,Durkan
 289,Q7128949,Pam Cameron,South Antrim,Democratic Unionist Party,Pam,Cameron
 293,Q7154645,Paula Bradley,Belfast North,Democratic Unionist Party,Paula,Bradley
-298,Q7441173,Seán Lynch,Fermanagh and South Tyrone,Sinn Féin,Sean,Lynch
+298,Q7441173,Seán Lynch,Fermanagh and South Tyrone,Sinn Féin,Seán,Lynch
 300,Q6848174,Mike Nesbitt,Strangford,Ulster Unionist Party,Mike,Nesbitt
 301,Q3499853,Jim Allister,North Antrim,Traditional Unionist Voice,Jim,Allister
 302,Q7352813,Robin Swann,North Antrim,Ulster Unionist Party,Robin,Swann
@@ -85,7 +83,9 @@ id,item,label,area,party,first_name,last_name
 6169,Q86009725,Harry Harvey,Strangford,Democratic Unionist Party,Harry,Harvey
 6170,Q71333058,Rachel Woods,North Down,Green Party,Rachel,Woods
 6173,Q80222175,Andrew Muir,North Down,Alliance Party,Andrew,Muir
-6177,Q81823006,Liz Kimmins,Newry and Armagh,Sinn Féin,Liz,
-6178,Q81725991,Sinead McLaughlin,Foyle,Social Democratic and Labour Party,,McLaughlin
+6176,Q55069282,Deirdre Hargey,Belfast South,Sinn Féin,Deirdre,Hargey
+6177,Q81823006,Liz Kimmins,Newry and Armagh,Sinn Féin,Liz,Kimmins
+6178,Q81725991,Sinead McLaughlin,Foyle,Social Democratic and Labour Party,Sinead,McLaughlin
+6179,Q61883171,Matthew O'Toole,Belfast South,Social Democratic and Labour Party,Matthew,O'Toole
 6464,Q76130874,Cara Hunter,East Londonderry,Social Democratic and Labour Party,Cara,Hunter
 6792,Q105100108,Nicola Brogan,West Tyrone,Sinn Féin,Nicola,Brogan
