@@ -2,7 +2,7 @@ name: Scrape latest data
 
 on:
   schedule:
-    - cron: '03 14 * * *'
+    - cron:  '14 2 * * *'
 
 jobs:
   scheduled:
@@ -21,7 +21,7 @@ jobs:
       run: bundle exec ruby bin/scraper/wikidata.rb | tee data/wikidata.csv
     - name: Generate diff
       run: bundle exec ruby bin/diff.rb | tee data/diff.csv
-    - name: Commit and push if it changed
+    - name: Commit and push changed data
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
