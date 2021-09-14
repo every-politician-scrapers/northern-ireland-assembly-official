@@ -2,7 +2,6 @@ id,name,first_name,last_name,party,area
 5797,"Aiken, Steve OBE",Steve,Aiken,Ulster Unionist Party,South Antrim
 5307,"Allen, Andy",Andy,Allen,Ulster Unionist Party,Belfast East
 301,"Allister, Jim",Jim,Allister,Traditional Unionist Voice,North Antrim
-207,"Anderson, Martina",Martina,Anderson,Sinn Féin,Foyle
 5800,"Archibald, Caoimhe",Caoimhe,Archibald,Sinn Féin,East Londonderry
 5790,"Armstrong, Kellie",Kellie,Armstrong,Alliance Party,Strangford
 5792,"Bailey, Clare",Clare,Bailey,Green Party,Belfast South
@@ -26,6 +25,7 @@ id,name,first_name,last_name,party,area
 6158,"Catney, Pat",Pat,Catney,Social Democratic and Labour Party,Lagan Valley
 5801,"Chambers, Alan",Alan,Chambers,Ulster Unionist Party,North Down
 198,"Clarke, Trevor",Trevor,Clarke,Democratic Unionist Party,South Antrim
+7467,"Delargy, Pádraig",Pádraig,Delargy,Sinn Féin,Foyle
 303,"Dickson, Stewart",Stewart,Dickson,Alliance Party,East Antrim
 5811,"Dillon, Linda",Linda,Dillon,Sinn Féin,Mid Ulster
 124,"Dodds, Diane",Diane,Dodds,Democratic Unionist Party,Upper Bann
@@ -34,6 +34,7 @@ id,name,first_name,last_name,party,area
 287,"Durkan, Mark",Mark,Durkan,Social Democratic and Labour Party,Foyle
 127,"Easton, Alex",Alex,Easton,Independent,North Down
 6154,"Ennis, Sinéad",Sinéad,Ennis,Sinn Féin,South Down
+7468,"Ferguson, Ciara",Ciara,Ferguson,Sinn Féin,Foyle
 6103,"Flynn, Órlaithí",Órlaithí,Flynn,Sinn Féin,Belfast West
 131,"Foster, Arlene",Arlene,Foster,Democratic Unionist Party,Fermanagh and South Tyrone
 269,"Frew, Paul",Paul,Frew,Democratic Unionist Party,North Antrim
@@ -67,8 +68,7 @@ id,name,first_name,last_name,party,area
 60,"Maskey, Alex",Alex,Maskey,Sinn Féin,Belfast West
 5043,"Middleton, Gary",Gary,Middleton,Democratic Unionist Party,Foyle
 6173,"Muir, Andrew",Andrew,Muir,Alliance Party,North Down
-6162,"Mullan, Karen",Karen,Mullan,Sinn Féin,Foyle
-7425,"Murphy, Aine",Aine,Murphy,Sinn Féin,Fermanagh and South Tyrone
+7425,"Murphy, Áine",Áine,Murphy,Sinn Féin,Fermanagh and South Tyrone
 80,"Murphy, Conor",Conor,Murphy,Sinn Féin,Newry and Armagh
 300,"Nesbitt, Mike",Mike,Nesbitt,Ulster Unionist Party,Strangford
 144,"Newton, Robin",Robin,Newton,Democratic Unionist Party,Belfast East
