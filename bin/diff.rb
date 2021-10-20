@@ -1,29 +1,21 @@
 #!/bin/env ruby
 # frozen_string_literal: true
 
-require 'csv'
-require 'daff'
-require 'pry'
+require 'every_politician_scraper/comparison'
 
-wikidata = CSV.table('data/wikidata.csv')
-official = CSV.table('data/official.csv')
+# Remove government members and standardise parties
+class Comparison < EveryPoliticianScraper::Comparison
+  REMAP = {
+    'People Before Profit' => 'People Before Profit Alliance',
+    'Alliance Party of Northern Ireland' => 'Alliance Party',
+    'Green Party in Northern Ireland' => 'Green Party',
+    'independent politician' => 'Independent',
+  }.freeze
 
-columns = wikidata.headers & official.headers
-wikidata_tc = [columns, *wikidata.map { |r| r.values_at(*columns) }]
-official_tc = [columns, *official.map { |r| r.values_at(*columns) }]
+  def wikidata_csv_options
+    { converters: [->(val) { REMAP.fetch(val, val) }] }
+  end
+end
 
-wikidata_tv = Daff::TableView.new(wikidata_tc)
-official_tv = Daff::TableView.new(official_tc)
-alignment = Daff::Coopy.compare_tables(wikidata_tv, official_tv).align
-
-table_diff = Daff::TableView.new(data_diff = [])
-
-flags = Daff::CompareFlags.new
-flags.ordered = false
-flags.unchanged_context = 0
-flags.show_unchanged_columns = true
-
-highlighter = Daff::TableDiff.new(alignment, flags)
-highlighter.hilite(table_diff)
-
-puts data_diff.sort_by { |r| [r.first, r.last.to_s] }.reverse.map(&:to_csv)
+diff = Comparison.new('data/wikidata.csv', 'data/official.csv').diff
+puts diff.sort_by { |r| [r.first, r[1].to_s] }.reverse.map(&:to_csv)
