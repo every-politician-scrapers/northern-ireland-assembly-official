@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "Northern Ireland",
+      "id": "Q26"
+    },
+    "legislature": {
+      "id": "Q5230427",
+      "member": "Q37279107",
+      "term": {
+        "id": "Q28868358",
+        "start": "2017-03-03"
+      }
+    },
+    "source": {
+        "url":   "http://data.niassembly.gov.uk/members_json.ashx?m=GetAllCurrentMembers",
+        "title": "Northern Ireland Assembly Open Data",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/northern-ireland-assembly"
+}

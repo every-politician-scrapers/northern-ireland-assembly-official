@@ -54,7 +54,7 @@ end
 WIKIDATA_SPARQL_URL = 'https://query.wikidata.org/sparql?format=json&query=%s'
 
 memberships_query = <<SPARQL
-  SELECT DISTINCT ?id ?item ?itemLabel ?partyLabel ?areaLabel ?givenLabel ?familyLabel { 
+  SELECT DISTINCT ?id ?item ?itemLabel ?partyLabel ?areaLabel ?givenLabel ?familyLabel {
      ?item p:P39 ?ps .
      ?ps ps:P39 wd:Q37279107 .
      FILTER NOT EXISTS { ?ps pq:P582 [] }
